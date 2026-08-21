@@ -1,12 +1,14 @@
 # Hug-Terraform-Lagos-Ibadan-Challenge
+
+
 . Week One Project: Deploy a Web Server on AWS.
 . Objective: Use Terraform to provision on web server on a Cloud Platform.
-==Learning Outcomes====
+=====Learning Outcomes=====
 . Configure the Cloud Platform provider.
 . Use variables and outputs.
 . Provision cloud resources using Infrastructure As Code.
 . Understand resource dependencies.
-==Project Requirements====
+=====Project Requirements=====
 Using Terraform, provision;
 . A custom VPC
 . A Public Subnet
