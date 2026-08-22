@@ -30,4 +30,8 @@ Using Terraform, provision:
 
 1. ec2 instance.png
 2. nginx home page.png
+
+## NOTE
+
+1. In prod, you need to use ip ranges or a specific ip when setting up your security group.
 ---
