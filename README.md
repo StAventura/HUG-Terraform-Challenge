@@ -26,4 +26,8 @@ Using Terraform, provision:
 4. Run `terraform apply`
 5. Run `terraform destroy`
 
+## Screenshots
+
+1. ec2 instance.png
+2. nginx home page.png
 ---
